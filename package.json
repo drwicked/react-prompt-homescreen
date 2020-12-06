@@ -14,9 +14,11 @@
     "url": "git+https://github.com/drwicked/react-prompt-homescreen.git"
   },
   "keywords": [
-    "My",
-    "first",
-    "library"
+    "react",
+    "homescreen",
+    "ios",
+    "mobile",
+    "home screen"
   ],
   "author": "Madelyn Eriksen",
   "license": "MIT",
