@@ -1,7 +1,7 @@
-Companion Repo for React Library Tutorial
+react-prompt-homescreen
 =====
 
-This is a companion repository for a tutorial posted on [my blog.](https://www.madelyneriksen.com/react-component-library-tutorial)
+Self-contained React add to homescreen prompt with styled-components and cookie support. When users X out of the prompt the component will remember and not show it again.
 
 ## License
 MIT
